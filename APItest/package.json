@@ -1,0 +1,28 @@
+{
+  "name": "api_mindex",
+  "version": "1.0.0",
+  "description": "indice de empresas com ações com valor menor que 10 reais.",
+  "main": "requestTest.js",
+  "scripts": {
+    "test": "requestTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleyclzns/MIDAS.git"
+  },
+  "keywords": [
+    "MiDEX;",
+    "Indice",
+    "menos",
+    "10;",
+    "Indice",
+    "de",
+    "Micos"
+  ],
+  "author": "wesleyclzns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleyclzns/MIDAS/issues"
+  },
+  "homepage": "https://github.com/wesleyclzns/MIDAS#readme"
+}
