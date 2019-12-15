@@ -1,6 +1,7 @@
 # MIDAS
 Redefini o proposito do projeto, agora ele iria partir de um "Indice" de ações baratas (com valor de compra menor que R$ 10,00)
 
+### MIdex
 Design - https://www.figma.com/file/2xovIP4hfP78BiZl0P6KQg/Midas?node-id=0%3A1
 
 No futuro pretendo ampliar o projeto para ser algo como um filtro com todas as ações da bolsa, onde acredito que sera interessante esss funcionalidades:
