@@ -5,7 +5,7 @@ class Pidex extends Component{
         return(
            <div>
                 <div>
-                     <h2>Pidex</h2>
+                     <h2>Baratinhas</h2>
                      <p>1.000pt</p>
                 </div>
                 <div>
